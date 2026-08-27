@@ -11,12 +11,12 @@ The parts were designed to be as light as possible to reduce the torque required
 
 The mounting of the input cranks made for easy install/uninstall the legs to the body. It also made offsetting the timing of the legs on the left and right side simple, by installing their respective cranks on the shaft 180° apart.
 
-![Full Assembly](SolidWorks/5_Exports/Full%Assembly.jpg)
+![Full Assembly](Pictures/Full%Assembly.jpg)
 
-![Leg Linkages](SolidWorks/5_Exports/Leg%Linkages.jpg)
+![Leg Linkages](Pictures/Leg%Linkages.jpg)
 
-![Input Crank](SolidWorks/5_Exports/Input%Cranks.jpg)
+![Input Crank](Pictures/Input_Cranks.jpg)
 
-![Single Joint](SolidWorks/5_Exports/Single%Joint.jpg)
+![Single Joint](Pictures/Single%Joint.jpg)
 
-![Double Joint](SolidWorks/5_Exports/Double%Joint.jpg)
+![Double Joint](Pictures/Double%Joint.jpg)
