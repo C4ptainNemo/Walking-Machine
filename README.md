@@ -13,7 +13,7 @@ The mounting of the input cranks made for easy install/uninstall the legs to the
 
 ![Full Assembly](SolidWorks/5_Exports/Full%Assembly.jpg)
 ![Leg Linkages](SolidWorks/5_Exports/Leg%Linkages.jpg)
-![Input Crank](SolidWorks/5_Exports/Input%Crank.jpg)
+![Input Crank](SolidWorks/5_Exports/Input%Cranks.jpg)
 ![Single Joint](SolidWorks/5_Exports/Single%Joint.jpg)
 ![Double Joint](SolidWorks/5_Exports/Double%Joint.jpg)
 
