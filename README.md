@@ -11,12 +11,8 @@ The parts were designed to be as light as possible to reduce the torque required
 
 The mounting of the input cranks made for easy install/uninstall the legs to the body. It also made offsetting the timing of the legs on the left and right side simple, by installing their respective cranks on the shaft 180° apart.
 
-![Full Assembly](Pictures/Full%Assembly.jpg)
-
-![Leg Linkages](Pictures/Leg%Linkages.jpg)
-
-![Input Crank](Pictures/Input%Cranks.jpg)
-
-![Single Joint](Pictures/Single%Joint.jpg)
-
-![Double Joint](Pictures/Double%Joint.jpg)
+<img width="785" height="959" alt="Full Assembly" src="https://github.com/user-attachments/assets/edb20aa2-64e9-4b7a-9eff-7a0f52113f79" />
+<img width="830" height="815" alt="Leg Linkages" src="https://github.com/user-attachments/assets/747583a5-e5a4-416e-9444-2e9625d2d611" />
+<img width="560" height="499" alt="Input Cranks" src="https://github.com/user-attachments/assets/6f12a5bf-b884-41be-9f1d-0ec9a3918088" />
+<img width="514" height="336" alt="Double Joint" src="https://github.com/user-attachments/assets/4bb2987c-accc-433a-95ea-89b19f8df348" />
+<img width="308" height="219" alt="Single Joint" src="https://github.com/user-attachments/assets/7cea22d7-0917-4b6e-aade-3850e25d6e32" />
