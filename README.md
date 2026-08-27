@@ -15,7 +15,7 @@ The mounting of the input cranks made for easy install/uninstall the legs to the
 
 ![Leg Linkages](Pictures/Leg%Linkages.jpg)
 
-![Input Crank](Pictures/Input_Cranks.jpg)
+![Input Crank](Pictures/Input%Cranks.jpg)
 
 ![Single Joint](Pictures/Single%Joint.jpg)
 
